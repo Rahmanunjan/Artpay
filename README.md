@@ -1,16 +1,16 @@
-# Artpay
-An escrow payment system enabling Artists to receive payment for their artworks
+# ARTPAY
+## An escrow payment system enabling Artists to receive payment for their artworks
 
-INTRODUCTION
+# INTRODUCTION
 
-PROJECT DIAGRAM
+# PROJECT DIAGRAM
 
-USER INSTRUCTIONS
+# USER INSTRUCTIONS
 
-DEVELOPER/CONTRIBUTOR INSTRUCTIONS
+# DEVELOPER/CONTRIBUTOR INSTRUCTIONS
 
-HOW TO CONTRIBUTE
+# HOW TO CONTRIBUTE
 
-KNOWN ISSUES
+# KNOWN ISSUES
 
-DONATIONS
+# DONATIONS
