@@ -10,11 +10,12 @@
 
 # INTRODUCTION
 ## ARTPAY is a project that intends to solve three crtical problems:
-* 1. Artists not getting paid for their art works
-* 2. Artists not getting paid on time.
-* 3 A trusted system of payment between the Artists and art buyer.
-* 4. Ensuring Buyers recieve their artworks. 
- 71% of UK Artists who took part in Exhibitions havent been paid in the last 3 years. This has lead to many artists earning below the minimum wage or changing professions.  
+* Artists not getting paid for their art works
+* Artists not getting paid on time.
+* 3A trusted system of payment between the Artists and art buyer.
+* Ensuring Buyers recieve their artworks. 
+
+*** 71% of UK Artists who took part in Exhibitions havent been paid in the last 3 years. *** This has lead to many artists earning below the minimum wage or changing professions. Current Escrow paltforms are centralised and provide the risk of funds being misplaced, stolen or withheld. Sadly, many many Art houses have deliberately witheld Artists payments or inisted on paying them instalmentally.  
 
 # PROJECT DIAGRAM
 
