@@ -24,7 +24,7 @@ journey
 	title Artpay User Flow
 	section Escrow Smart Contract
 		Buyer and Seller Lock a partial stake: 1: Buyer
-		Buyer notifies DAO of potential purcahse, DAO monitors sale: 2: Buyer
+		DAO notified: 2: Buyer
 		Outline purchase conditions: 3: Buyer, Seller
 		Messages sent for update: 5: Buyer, Seller
 	section NFT
