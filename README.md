@@ -1,3 +1,10 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://dicklerroth.com/wp-content/uploads/2017/06/escrow.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.ytimg.com/vi/fZlHcazNMrc/maxresdefault.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://c5.staticflickr.com/9/8048/29402125324_f6b3b7fdc5_z.jpg">
+</picture>
+
+
 # ARTPAY
 ## An escrow payment system enabling Artists to receive payment for their artworks
 
