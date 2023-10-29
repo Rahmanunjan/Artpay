@@ -15,7 +15,7 @@
 * A trusted system of payment between the Artists and art buyer.
 * Ensuring Buyers recieve their artworks. 
 
-***71% of UK Artists who took part in Exhibitions havent been paid in the last 3 years.*** This has lead to many artists earning below the minimum wage or changing professions. Current Escrow paltforms are centralised and provide the risk of funds being misplaced, stolen or withheld. Sadly, many many Art houses have deliberately witheld Artists payments or inisted on paying them instalmentally.  
+***71% of UK Artists who took part in Exhibitions havent been paid in the last 3 years.*** This has lead to many artists earning below the minimum wage or changing professions. Current Escrow paltforms are centralised and provide the risk of funds being misplaced, stolen or withheld. Sadly, many Art houses have deliberately witheld Artists payments or inisted on paying them instalmentally.  
 
 # PROJECT DIAGRAM
 
