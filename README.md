@@ -18,6 +18,7 @@
 ***71% of UK Artists who took part in Exhibitions havent been paid in the last 3 years.*** This has lead to many artists earning below the minimum wage or changing professions. Current Escrow paltforms are centralised and provide the risk of funds being misplaced, stolen or withheld. Sadly, many Art houses have deliberately witheld Artists payments or inisted on paying them instalmentally.  
 
 # PROJECT DIAGRAM
+https://www.canva.com/design/DAFyoun-7Wk/vDktKUCqmfyXzGZ2dtLHIg/view?utm_content=DAFyoun-7Wk&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 # USER INSTRUCTIONS
 
