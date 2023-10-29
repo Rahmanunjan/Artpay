@@ -21,18 +21,18 @@
 # PROJECT DIAGRAM
 ```mermaid
 journey
-	title Me studying for exams
-	section Exam is announced
-		I start studying: 1: Me
-		Make notes: 2: Me
-		Ask friend for help: 3: Me, Friend
-		We study togther: 5: Me, Friend
-	section Exam Day
-		Syllabys is incomplete: 2: Me
-		Give exam: 1: Me, Friend
-	section Result Declared
-		I passed the exam with destinction!: 5: Me
-		Friend barely gets passing marks: 2: Friend
+	title Artpay User Flow
+	section Escrow Smart Contract
+		Buyer and Seller Lock a partial stake: 1: Buyer
+		Buyer notifies DAO of potential purcahse, DAO monitors sale: 2: Buyer
+		Outline purchase conditions: 3: Buyer, Seller
+		Messages sent for update: 5: Buyer, Seller
+	section NFT
+		Initial part payment made: 2: Buyer
+		NFT minted and sent: 1: Buyer, Seller
+	section Payment
+		Buyer receives artwork: 5: Buyer
+		Seller receives payment: 2: Seller
 ```
 https://www.canva.com/design/DAFyoun-7Wk/vDktKUCqmfyXzGZ2dtLHIg/view?utm_content=DAFyoun-7Wk&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
